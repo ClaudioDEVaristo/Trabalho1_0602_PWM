@@ -48,3 +48,5 @@ Este projeto utiliza o microcontrolador RP2040 e o **Pico SDK** para simular o c
 4. Realize os testes utilizando o LED RGB (Pino 12) no BitDogLab.
 
 ## 🚀 Link do vídeo no YouTube
+
+https://www.youtube.com/watch?v=0GKlQFdimWk&ab_channel=AutomatizaIdeias
